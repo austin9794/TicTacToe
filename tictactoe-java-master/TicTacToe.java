@@ -21,7 +21,7 @@ public class TicTacToe {
     public TicTacToe() {
         frame = new JFrame("Tic Tac Toe");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(400, 500); // slightly bigger to fit scoreboard
+        frame.setSize(400, 500); 
         frame.setLayout(new BorderLayout());
 
         // Title/Status Panel
@@ -186,3 +186,4 @@ private void highlightTie() {
         new TicTacToe();
     }
 }
+
