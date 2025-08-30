@@ -18,3 +18,11 @@ Play locally with friends, track scores, and enjoy a clean, beginner-friendly im
 🟩 Winning tiles highlight in green
 
 🟨 Tie games highlight the entire board in yellow
+
+Tech Stack:
+
+Java (JDK 8+)
+
+Swing / AWT for GUI
+
+
