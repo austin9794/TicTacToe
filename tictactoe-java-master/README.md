@@ -1,10 +1,20 @@
-# [Tic Tac Tie (Java)](https://youtu.be/Nc77ymnm8Ss)
+A simple two-player Tic Tac Toe game built in Java using Swing for the GUI.
+Play locally with friends, track scores, and enjoy a clean, beginner-friendly implementation of this classic game.
 
-How to code a Tic Tac Toe game in Javafor beginners! Learn how to create a game of Tic Tac Toe in Java using the awt and swing graphics library. Throughout the tutorial, you will learn how to create a graphical user interface (GUI) to display the Tic Tac Toe game, and check win or tie conditions using a 2D array.
+ Features:
 
-[How to setup Java with Visual Studio Code](https://youtu.be/BB0gZFpukJU)
+🕹️ Interactive 3x3 grid with responsive gameplay
 
-![tictactoe-java-demo](https://github.com/ImKennyYip/tictactoe-java/assets/78777681/d54b6509-543e-4f91-aabd-bd88f6baef34)
+👥 Two-player mode (Player X vs Player O)
 
-## Homework:
-You can continue working on this project if you like. One feature you can add is a JButton for restarting the game every time there is a win or tie. Another feature you can add is score keeping for playerX and playerO and updating the score after every game.
+🏆 Scoreboard to track X wins, O wins, and ties across multiple rounds
+
+🔄 Restart button to start a new match without restarting the app
+
+🚪 Quit button to exit the game cleanly
+
+🎲 First player toggle (choose whether X or O starts the game)
+
+🟩 Winning tiles highlight in green
+
+🟨 Tie games highlight the entire board in yellow
