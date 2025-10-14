@@ -93,7 +93,7 @@ private void checkWinner() {
             highlightWinningLine(board[i][0], board[i][1], board[i][2]);
             return;
         }
-
+        // Winners
         if (!board[0][i].getText().isEmpty() &&
             board[0][i].getText().equals(board[1][i].getText()) &&
             board[1][i].getText().equals(board[2][i].getText())) {
@@ -111,7 +111,7 @@ private void checkWinner() {
         highlightWinningLine(board[0][0], board[1][1], board[2][2]);
         return;
     }
-
+    // Winners
     if (!board[0][2].getText().isEmpty() &&
         board[0][2].getText().equals(board[1][1].getText()) &&
         board[1][1].getText().equals(board[2][0].getText())) {

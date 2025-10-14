@@ -25,4 +25,5 @@ Tech Stack:
 
 Java (JDK 8+)
 
-Swing / AWT for GUI
+Swing / AWT for Graphical User Interface
+
