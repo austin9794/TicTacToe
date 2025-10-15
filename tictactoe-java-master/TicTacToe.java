@@ -186,11 +186,3 @@ private void highlightTie() {
         new TicTacToe();
     }
 }
-
-/*Test
-Test
-Test
-Test
-Test
-Test
-Test */
